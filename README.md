@@ -30,5 +30,11 @@
 
 感谢您使用我们的应用程序！如果您需要更多帮助或有任何问题，请随时联系我们的支持团队。我们将竭诚为您服务。
 
+用户协议：
+https://raw.githubusercontent.com/CYC666/SearchProject/main/%E7%94%A8%E6%88%B7%E5%8D%8F%E8%AE%AE
+
+隐私政策：
+https://raw.githubusercontent.com/CYC666/SearchProject/main/%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96
+
 
 
